@@ -1,0 +1,16 @@
+name: routing
+
+channels:
+  - conda-forge
+
+dependencies:
+  - geopandas=0.6.2
+  - networkx=2.3
+  - urbanaccess=0.2.0
+  - osmnx=0.11.2
+  - jupyter=1.0.0
+  - jupyterlab=1.2.4
+  - python-igraph
+  - pip
+  - pip:
+      - ua2nx
