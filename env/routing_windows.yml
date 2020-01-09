@@ -9,6 +9,8 @@ dependencies:
   - networkx
   - urbanaccess
   - osmnx
+  - pysal
+  - dill
   - jupyter
   - jupyterlab
   - pip
