@@ -1,0 +1,2 @@
+"feed_publisher_name","feed_publisher_url","feed_lang","feed_start_date","feed_end_date","feed_version"
+"Kotka","http://kotka.fi","en","20180603","20190811","201904041527"
